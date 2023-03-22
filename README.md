@@ -1,7 +1,7 @@
 # ArchA
 A simplistic tampermonkey script that sends a highlighted piece of text to a helper site<br>
 There are three different versions of Arch-A<br>
-> Simplistic<br>
+> [Simplistic](https://greasyfork.org/en/scripts/462354-arch-a)<br>
 
 This is the version that will be included with the default greasyfork download<br>
 
